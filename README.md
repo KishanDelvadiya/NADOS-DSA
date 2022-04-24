@@ -51,7 +51,7 @@ Index ::
 Progress Peport ::
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-_01. Geeting Started_ ::
+01. Geeting Started ::
 --------------------------------
                 Completed     Total
 Articles    :                   14
@@ -61,7 +61,7 @@ MCQ         :                   --
 
 
 
-_02. Patterns_ ::
+02. Patterns ::
 --------------------------------
                 Completed     Total
 Articles    :       1           22
@@ -70,7 +70,7 @@ Modules     :                   --
 MCQ         :                   --
 
 
-_03. Function and Arrays_ ::
+03. Function and Arrays ::
 --------------------------------
                 Completed     Total
 Articles    :       4           19
