@@ -51,32 +51,35 @@ Index ::
 Progress Peport ::
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-01. Geeting Started ::
---------------------------------
-                Completed     Total
-Articles    :                   14
-Questions   :       8           14
-Modules     :                    6
-MCQ         :                   --
+~~~
+01. Geeting Started ::      22 %
+-----------------------------------
+|           | Completed | Total |
+|:--------- | :-------: | :---: |
+| Articles  |      8    |   14  |
+| Questions |      8    |   14  |
+| Modules   |           |    6  |
+| MCQ       |           |       |
+~~~
 
+~~~
+02. Patterns ::             20 %
+-----------------------------------
+|           | Completed | Total |
+|:--------- | :-------: | :---: |
+| Articles  |      1    |   22  |
+| Questions |      8    |   22  |
+| Modules   |           |       |
+| MCQ       |           |       |
+~~~
 
-
-02. Patterns ::
---------------------------------
-                Completed     Total
-Articles    :       1           22
-Questions   :       8           22
-Modules     :                   --
-MCQ         :                   --
-
-
-03. Function and Arrays ::
---------------------------------
-                Completed     Total
-Articles    :       4           19
-Questions   :       4           19
-Modules     :                    5
-MCQ         :                   --
-
-
-
+~~~
+03. Function and Arrays ::  11 %
+-----------------------------------
+|           | Completed | Total |
+|:--------- | :-------: | :---: |
+| Articles  |      4    |   19  |
+| Questions |      4    |   19  |
+| Modules   |           |    5  |
+| MCQ       |           |       |
+~~~
